@@ -8,9 +8,3 @@
     clip-path: polygon(0 0,100% 0,100% 75vh,0 100%);
  }
 */
- .header{
-    background-image:url("../assets/image/living_expenses.jpg");
-    background-size: cover;
-    background-position: top;
-
- }
